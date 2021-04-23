@@ -1,0 +1,95 @@
+{
+  "main": {
+    "id": "dc55e796945fa417",
+    "type": "split",
+    "children": [
+      {
+        "id": "06d17d8729e9ed30",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Best Practices for macOS.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "25356ec5bfc10c92",
+    "type": "split",
+    "children": [
+      {
+        "id": "d27de169225749f0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c936a071daf2a161",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "633bffad1ad2fe15",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "6e46d625b0a7e6cf",
+    "type": "split",
+    "children": [
+      {
+        "id": "2a52c07106036d2b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9ff2bb2819d71560",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Best Practices for macOS.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "06d17d8729e9ed30",
+  "lastOpenFiles": [
+    "Best Practices for macOS.md",
+    "MACOS TOOLS.md",
+    "1.9.md",
+    "Untitled.md"
+  ]
+}
