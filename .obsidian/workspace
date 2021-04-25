@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "2.2/Logical Security.md",
+            "file": "commands.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2.2/Logical Security.md",
+                "file": "commands.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,6 +88,8 @@
   },
   "active": "9f9a4b76dd1f6e22",
   "lastOpenFiles": [
+    "commands.md",
+    "2.2/Logical Security.md",
     "2.2/Untitled.md",
     "2.1/Physical Security.md",
     "Untitled.md",
@@ -95,8 +97,6 @@
     "1.9/Best Practices for Linux.md",
     "1.9/Best Practices for macOS.md",
     "1.9/Linux Tools.md",
-    "1.9/MACOS TOOLS.md",
-    "2.1/Untitled.md",
-    "2.1.md"
+    "1.9/MACOS TOOLS.md"
   ]
 }
