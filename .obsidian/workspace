@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Security/2.5/Non-compliant Systems.md",
+            "file": "Security/2.8/Securing Mobile Devices.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Security/2.5/Non-compliant Systems.md",
+                "file": "Security/2.8/Securing Mobile Devices.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "9f9a4b76dd1f6e22",
   "lastOpenFiles": [
+    "Security/2.8/Untitled.md",
+    "Security/2.7/Untitled.md",
+    "Security/2.6/Untitled.md",
+    "Security/Untitled.md",
+    "Security/2.5/Non-compliant Systems.md",
     "Security/2.5/Untitled.md",
     "Security/2.4/Untitled.md",
     "Security/2.4/Types of Malware.md",
     "Security/2.3/Wireless Security.md",
-    "Security/2.3/Untitled.md",
-    "commands.md",
-    "2.2/Logical Security.md",
-    "2.2/Untitled.md",
-    "2.1/Physical Security.md",
-    "Untitled.md"
+    "Security/2.3/Untitled.md"
   ]
 }
