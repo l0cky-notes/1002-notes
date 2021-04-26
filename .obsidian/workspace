@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "commands.md",
+            "file": "Security/2.5/Man-in-the-Middle.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "commands.md",
+                "file": "Security/2.5/Man-in-the-Middle.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "9f9a4b76dd1f6e22",
   "lastOpenFiles": [
+    "Security/2.5/Untitled.md",
+    "Security/2.4/Untitled.md",
+    "Security/2.4/Types of Malware.md",
+    "Security/2.3/Wireless Security.md",
+    "Security/2.3/Untitled.md",
     "commands.md",
     "2.2/Logical Security.md",
     "2.2/Untitled.md",
     "2.1/Physical Security.md",
-    "Untitled.md",
-    "1.9/Basic Linux Commands.md",
-    "1.9/Best Practices for Linux.md",
-    "1.9/Best Practices for macOS.md",
-    "1.9/Linux Tools.md",
-    "1.9/MACOS TOOLS.md"
+    "Untitled.md"
   ]
 }
