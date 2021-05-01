@@ -72,3 +72,8 @@ copy (/v, /y)
 	
 xcopy 
 	copies files and directory trees 
+	
+	
+	Bootrec /fixMBR
+Bootrec /fixboot
+Bootrec /rebuildBcd

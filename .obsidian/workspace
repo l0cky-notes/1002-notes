@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Security/2.8/Securing Mobile Devices.md",
+            "file": "Troubleshooting/3.4/Troubleshooting Mobile Apps.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Security/2.8/Securing Mobile Devices.md",
+                "file": "Troubleshooting/3.4/Troubleshooting Mobile Apps.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "9f9a4b76dd1f6e22",
   "lastOpenFiles": [
-    "Security/2.8/Untitled.md",
-    "Security/2.7/Untitled.md",
-    "Security/2.6/Untitled.md",
-    "Security/Untitled.md",
-    "Security/2.5/Non-compliant Systems.md",
-    "Security/2.5/Untitled.md",
-    "Security/2.4/Untitled.md",
-    "Security/2.4/Types of Malware.md",
-    "Security/2.3/Wireless Security.md",
-    "Security/2.3/Untitled.md"
+    "Troubleshooting/3.4/Troubleshooting Mobile Apps.md",
+    "Troubleshooting/3.4/Untitled.md",
+    "Troubleshooting/3.3/Untitled.md",
+    "Troubleshooting/3.2/Troubleshooting Security Issues.md",
+    "Operating Systems/1.4/microsoft command line tools.md",
+    "Operating Systems/1.4/Network cmd ttools.md",
+    "Troubleshooting/3.2/Untitled.md",
+    "Troubleshooting/3.1/Untitled.md",
+    "Troubleshooting/3.1/Troubleshooting Windows.md",
+    "Security/2.10/Untitled.md"
   ]
 }

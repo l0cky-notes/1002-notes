@@ -3,6 +3,8 @@ ipconfig
 		ping your local router/gateway
 	determine TCP/IP and network adater information
 		and some add IP details
+	Ipconfig /release
+Ipconfig /renew
 
 ping 
 	test reachability
