@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Troubleshooting/3.4/Troubleshooting Mobile Apps.md",
+            "file": "Operational Procedures/4.1/Documentation Best Practices.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Troubleshooting/3.4/Troubleshooting Mobile Apps.md",
+                "file": "Operational Procedures/4.1/Documentation Best Practices.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,6 +88,8 @@
   },
   "active": "9f9a4b76dd1f6e22",
   "lastOpenFiles": [
+    "Operational Procedures/4.1/Untitled.md",
+    "Troubleshooting/3.5/Untitled.md",
     "Troubleshooting/3.4/Troubleshooting Mobile Apps.md",
     "Troubleshooting/3.4/Untitled.md",
     "Troubleshooting/3.3/Untitled.md",
@@ -95,8 +97,6 @@
     "Operating Systems/1.4/microsoft command line tools.md",
     "Operating Systems/1.4/Network cmd ttools.md",
     "Troubleshooting/3.2/Untitled.md",
-    "Troubleshooting/3.1/Untitled.md",
-    "Troubleshooting/3.1/Troubleshooting Windows.md",
-    "Security/2.10/Untitled.md"
+    "Troubleshooting/3.1/Untitled.md"
   ]
 }
