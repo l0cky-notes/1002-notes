@@ -83,4 +83,25 @@ gdpr - General Data Protection Regulation
 		a right to be forgotten
 	site privacy  policy
 		detailed all of the privact rights for a users
-		
+
+
+PHI - Protected Health Infor
+	helth information associated with an individual
+		health status, health care records, payments for health care, and much more
+	data between provider
+		must maintain similar security requirements
+	hipaa regulation
+		health insurance portability and accountability act of 1996
+
+
+
+policies and best practices
+	policies
+		general IT guidelines
+		determines how tech should be used
+		provides processes for handling imporant tech decisions
+	security best practices
+		some security  techniques are accepted standards
+		cover both processes and tech 
+		you need a firewall. use WPA2. use strong passwords
+		what happens if there's a breach?
