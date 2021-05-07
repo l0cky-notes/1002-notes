@@ -11,7 +11,7 @@ boot methods
 		Apple tech to boot macOS from the network
 		similar concept to PXE
 
-	ssd/hard drive
+ssd/hard drive
 		store many OS installation files
 	external/hot swappable drive
 		some external drive can mount a ISO
@@ -22,31 +22,24 @@ boot methods
 	
 	
 type of installation
-	
 	ubattended installation
 		answer windows question in a file(unattend.xml)
 		no installion iterruption
-	
 	inplace upgrade
 		maintain existing app and data
-	
 	clean install
 		wipe the slate clean and reinstall
 		migration tool can help
-	
 	image 
 		deploy an clone on every computer
-	
 	repair installation
 		fix problem with the windows OS
 		does not modify user files
 	multiboot 
 		run two or more operation systems from a single pc
-	
 	recovery partition
 		hidden partition with installation files
-			
-	refresh/restore
+			refresh/restore
 		windows 8/10 feature to clean things up
 		requires a recovery patiton
 		
@@ -55,7 +48,6 @@ the disk partion
 	sep the physical drive inot logical pieces
 		useful to keep data separated
 		multiple patitions are not always necessary
-	
 	useful for maintaining separate operating system
 		windows,linux,etc
 	formatted patitions are called volumes
@@ -68,7 +60,6 @@ MBR patition style
 		bootable partitions
 		max of four primary patitions per hard disk
 		one of the primary patitions can be marked as Active
-		
 	extended
 		used for extending the max number of partions
 		one extended partition pre hard disk (optional)
@@ -90,12 +81,10 @@ disk patitioning
 		may already be partitioned
 			existing partitions may not always be compatible with your new operating system
 	
-	an MBR-style hard disk can have up to four partitions
-	
-	GUID patition table support up to 128 patitions
+an MBR-style hard disk can have up to four partitions
+	 GUID patition table support up to 128 patitions
 		requires UEFI BIOS or BIOS-compatibility mode
 		BIOS-compatibility mode disables UEFI secureBoot
-		
 	be careful
 		serious potential for data loss
 		this is not an everyday occurrence
@@ -108,7 +97,6 @@ storage types
 		available in DOS and windows versions
 		primary/extended patitions, logical drives
 		basic disk partitions can't span separate physical disks
-		
 	dynamic disk storage
 		available in all modern windows version
 		span multiple disks to create a large volume 
@@ -140,7 +128,6 @@ NTFS and CDFS
 	NTFS - NT file system
 		extensive improvements over FAT32
 		quotes, file compresssion, encryption, symbolic links, large file support, security, recoverability
-	
 	CDFS - Compact Disk File System
 		ISO 9660 standard
 		all operating system can read the CD
@@ -149,23 +136,19 @@ other file system
 	ext3 
 		third extended file system
 		commonly used by the linux OS
-	
 	ext4 
 		fourth extended file system
 		an update to ext3
 		commonly seen in linux and android 
-	
 	NFS
 		Network file system
 		access files across the network as if they were local
 		NFS clients available across many operating system
-	
 	HFS+ / HFS plus
 		hierarchical file system
 		also called mac os extended
 		replaced by apple file system
 		(APFS) in macOS High Sierra
-		
 	swap partion
 		memory management 
 		frees memory by moving unused pages onto disk 
@@ -177,7 +160,6 @@ quick format vs full format
 		create a new file table
 			looks like data is erased, but it's not 
 		no add check
-		
 	quick format in windows 7,8 and 10
 		use DISKPART for full format 
 	full format 

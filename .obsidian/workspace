@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Operational Procedures/4.1/Documentation Best Practices.md",
+            "file": "Operational Procedures/4.6/Privacy, Licensing, and Policies.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Operational Procedures/4.1/Documentation Best Practices.md",
+                "file": "Operational Procedures/4.6/Privacy, Licensing, and Policies.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "9f9a4b76dd1f6e22",
   "lastOpenFiles": [
-    "Operational Procedures/4.1/Untitled.md",
-    "Troubleshooting/3.5/Untitled.md",
-    "Troubleshooting/3.4/Troubleshooting Mobile Apps.md",
-    "Troubleshooting/3.4/Untitled.md",
-    "Troubleshooting/3.3/Untitled.md",
-    "Troubleshooting/3.2/Troubleshooting Security Issues.md",
-    "Operating Systems/1.4/microsoft command line tools.md",
+    "Operational Procedures/4.6/Untitled.md",
+    "Operational Procedures/4.5/Environmental Impacts.md",
+    "Operational Procedures/4.3/Disaster Recovery.md",
+    "Operational Procedures/4.4/Safety Procedures.md",
+    "Operational Procedures/4.4/Managing Electrostatic Discharge.md",
+    "Operational Procedures/4.5/Untitled.md",
     "Operating Systems/1.4/Network cmd ttools.md",
-    "Troubleshooting/3.2/Untitled.md",
-    "Troubleshooting/3.1/Untitled.md"
+    "Operating Systems/1.5/Windows Administrative Tools.md",
+    "Operating Systems/1.5/Task Manager.md",
+    "Operating Systems/1.5/System Utilities.md"
   ]
 }
